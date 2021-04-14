@@ -3,5 +3,9 @@ hello
 
 we modified this
  booooos
+<<<<<<< HEAD
 
 git statuse
+=======
+from feture2
+>>>>>>> fettur2
